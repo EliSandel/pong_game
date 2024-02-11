@@ -1,5 +1,5 @@
 # pong_game
-basic pong game in python using tkinter for GUI
+basic pong game in python using turtle for GUI
 
 Player on the right controls paddle with up and down arrow
 
